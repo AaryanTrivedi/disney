@@ -161,4 +161,3 @@ const Login = styled.a`
 `;
 
 export default Header
-export default Header
